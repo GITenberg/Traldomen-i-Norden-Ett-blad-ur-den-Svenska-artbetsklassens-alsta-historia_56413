@@ -1,11 +1,16 @@
 _repo: Traldomen-i-Norden-Ett-blad-ur-den-Svenska-artbetsklassens-alsta-historia_56413
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56413-h/images/cover.jpg
 creator:
   author:
     agent_name: Sommarin, Emil
     gutenberg_agent_id: '48828'
     url: http://www.gutenberg.org/2009/agents/48828
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56413#Traldomen-i-Norden-Ett-blad-ur-den-Svenska-artbetsklassens-alsta-historia
 gutenberg_issued: '2018-01-21'
 gutenberg_type: Text
 identifiers:
